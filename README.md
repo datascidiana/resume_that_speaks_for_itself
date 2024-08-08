@@ -5,8 +5,8 @@ You can find a detailed description in this article: https://medium.com/towards-
 
 To run this application:
 1. Create a virtual environment.
-   ```python -m venv myenv
-   myenv\Scripts\activate```
+   ```python -m venv myenv```
+   ```myenv\Scripts\activate```
 2. Install the requirements.
    ```pip install -r requirements.txt```
 3. Run the script.
